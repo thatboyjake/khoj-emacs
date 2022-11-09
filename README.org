@@ -1,10 +1,12 @@
 * Emacs Khoj
   /An Emacs interface for [[https://github.com/debanjum/khoj][Khoj]]/
-
++ THIS TRACKS TO STABLE KHOJ NOT MASTER
 ** Requirements
    - Install and Run [[https://github.com/debanjum/khoj][Khoj]]
 
 ** Installation
+   - Melpa soon
+
    - Direct Install
      - Put ~khoj.el~ in your Emacs load path. For e.g ~/.emacs.d/lisp
 
